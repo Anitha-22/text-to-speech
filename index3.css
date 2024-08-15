@@ -1,0 +1,27 @@
+body{
+    margin:0;
+    padding:0;
+    width:100%;
+    background-color: aqua;
+}
+.convert{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    height:100vh;
+
+}
+#mytext{
+    margin: 25px;
+    width:600px;
+    margin: 25px 350px;
+}
+button{
+    font-size: 15px;
+    padding:10px;
+    background-color: black;
+    color: white;
+    margin:0 550px;
+    border-radius: 5px;
+}
